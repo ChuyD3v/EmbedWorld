@@ -1,7 +1,7 @@
 ---
-title: 'Basics of C'
+title: 'CMake, Make & Ninja'
 description: ' ipsLoremum dolor sit amet'
-pubDate: 'Apr 28 2024'
+pubDate: 'Apr 29 2024'
 heroImage: '/embedded.jpg'
 Tags: ['C', 'C++', 'MCU']
 
